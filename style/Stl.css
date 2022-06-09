@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 30px;
+    background-color: rgba(196, 196, 196, 1);
+    width: 100%;
+    height: 150px;
+}
+
+header ul li {
+    float: left;
+    margin-right: 20px;
+    font-size: 18px;
+    padding-top: 33px;
+}
+
+main {
+    background-color: white;
+}
+
+.UAFlag img {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.statiebi {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 33px;
+}
+
+article {
+    width: 33.33%;
+    padding: 20px;
+    float: left;
+}
+
+.statia1 {
+    background-color: rgba(255, 153, 0, 1);
+}
+
+
+.statiatext h2 {
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.statiatext p {
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.statiatext p a {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+
+.statia2 {
+    background-color: rgba(255, 199, 0, 1);
+}
+
+.statia3 {
+    background-color: rgba(255, 230, 0, 1);
+}
+
+.statiasurati {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.statiasurati img {
+    width: 100%;
+    height: 200px;
+}
+
+footer {
+    clear: both;
+    padding-top: 47px;
+    padding-bottom: 50px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+/* აქედან იწყება Product CSS*/
+
+.dabruneba {
+    color: rgba(0, 0, 0, 0.5);
+    padding-top: 13px;
+    padding-bottom: 13px;
+    width: 90%;
+    margin: 0 auto;
+    font-size: 12px;
+}
+
+.mid {
+    background-color: rgba(255, 153, 0, 1);
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 56px;
+    padding-left: 10px;
+}
+
+.photomarg {
+    width: 33.33%;
+}
+
+.presidentphoto img {
+    width: 100%;
+    overflow: hidden;
+}
