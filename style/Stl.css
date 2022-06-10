@@ -72,13 +72,13 @@ article {
 
 .statiasurati {
     width: 100%;
-    height: 200px;
+    height: 353px;
     overflow: hidden;
 }
 
 .statiasurati img {
     width: 100%;
-    height: 200px;
+    height: 353px;
 }
 
 footer {
@@ -101,19 +101,71 @@ footer {
     font-size: 12px;
 }
 
-.mid {
+.siaxletop{
+    background-color: rgba(255, 153, 0, 1);
+    width: 90%;
+    height: 150px;
+    margin: 0 auto;
+    padding-top: 56px;
+}
+
+.siaxletop1{
+    background-color: rgba(255, 199, 0, 1);
+    width: 90%;
+    height: 150px;
+    margin: 0 auto;
+    padding-top: 56px;
+}
+
+.siaxletop2{
+    background-color: rgba(255, 230, 0, 1);
+    width: 90%;
+    height: 150px;
+    margin: 0 auto;
+    padding-top: 56px;
+}
+
+
+.photomarg {
+    width: 90%;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.presidentphoto img {
+    width: 33.33%;
+    height: 413px;
+    overflow: hidden;
+    float: left;
+}
+
+.siaxlebottom p{
+    clear: both;
     background-color: rgba(255, 153, 0, 1);
     width: 90%;
     margin: 0 auto;
     padding-top: 56px;
-    padding-left: 10px;
+    padding-bottom: 56px;
+    font-size: 14px;
 }
 
-.photomarg {
-    width: 33.33%;
+
+.siaxlebottom1 p{
+    clear: both;
+    background-color: rgba(255, 199, 0, 1);
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    font-size: 14px;
 }
 
-.presidentphoto img {
-    width: 100%;
-    overflow: hidden;
+.siaxlebottom2 p{
+    clear: both;
+    background-color: rgba(255, 230, 0, 1);
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    font-size: 14px;
 }
